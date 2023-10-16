@@ -1,0 +1,17 @@
+001, Pan Jian Dong, 35, des@gmail.com, 0171333222, VC2, DM
+002, Joshua Ung, 46, ap667@gmail.com, 01634567890, VC1, EC
+003, Andy Tan, 23, Andy299@gmail.com, 01234566778, VC2, BV
+004, Quik Zii, 23, Quikzii001@gmail.com, 01235554433, VC2, AF
+005, Adam Seak, 23, Adam1225@gmail.com, 01734542333, VC1, DM
+006, Choon Yun, 23, zonnyong@gmail.com, 01254362357, VC1, BV
+007, Wei Jie, 23, WJ99@gmail.com, 01234125690, VC2, CZ
+008, Kenshi Yonezu, 31, lemon233@gmail.com, 01934573214, VC1, CZ
+009, Chiai Fujikawa, 19, happiness88@gmail.com, 01272475778, VC2, BV
+010, Stephen Curry, 34, curryflow10@gmail.com, 01799856478, VC2, AF
+011, Anqi Wong, 19, wong0212@gmail.com, 01233215114, VC1, BV
+012, Ler Zhen Xin, 22, Nexus00@gmail.com, 01236678988, VC2, DM
+013, Ryan Lee, 21, Ryan01@gmail.com, 01298966778, VC1, EC
+014, Yee Xuan, 20, yeexuan@gmail.com, 01234122433, VC2, AF
+015, Tan Elaine, 23, Elaine99forver@gmail.com, 01988799981, VC1, AF
+016, Andrew Wiggins, 28, Wiggins23@gmail.com, 01988865743, VC2, DM
+017, JD Pna, 23, is@gmail.com, 0127891689, VC2, EC
